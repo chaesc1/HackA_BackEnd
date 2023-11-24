@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+#Project exclude path
+src/main/resources/application.yml
